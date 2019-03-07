@@ -30,7 +30,7 @@ library(gt) # tables (get development version!!!)
 # remotes::install_github("rstudio/gt")
 library(ggalluvial) # Sankeys (on CRAN)
 library(readxl) # Get .xls (on CRAN)
-library(praise) # Praaaise! 
+library(praise) # Get/share praise! 
 
 # Note: may need to update dependencies (I usually choose yes to all...)
 
